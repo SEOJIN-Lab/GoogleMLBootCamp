@@ -11,7 +11,7 @@ TensorFlow Developer Certificate
 ---
 <a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice" target="_blank" title="Coursera">Coursera</a>
 <br>
-<a href="https://github.com/lmoroney/dlaicourse" target="_blank" title="Github">Exercises</a>
+<a href="https://github.com/https-deeplearning-ai/tensorflow-1-public" target="_blank" title="Github">Exercises</a>
 - [ ] Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 - [ ] Convolutional Neural Networks in TensorFlow
 - [ ] Natural Language Processing in TensorFlow
