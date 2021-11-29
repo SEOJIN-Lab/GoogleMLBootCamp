@@ -15,8 +15,8 @@ TensorFlow Developer Certificate
 - [x] Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 - [x] Convolutional Neural Networks in TensorFlow
 - [x] Natural Language Processing in TensorFlow
-- [ ] Sequences, Time Series and Prediction
+- [x] Sequences, Time Series and Prediction
 
 Kaggle
 ---
-<a href="https://www.kaggle.com/c/tabular-playground-series-nov-2021" target="_blank" title="Kaggle">Tabular Playground Series - Nov 2021</a>
+- [ ] <a href="https://www.kaggle.com/c/tabular-playground-series-nov-2021" target="_blank" title="Kaggle">Tabular Playground Series - Nov 2021</a>
