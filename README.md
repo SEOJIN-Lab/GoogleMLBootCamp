@@ -19,4 +19,4 @@ TensorFlow Developer Certificate
 
 Kaggle
 ---
-- [ ] <a href="https://www.kaggle.com/c/tabular-playground-series-nov-2021" target="_blank" title="Kaggle">Tabular Playground Series - Nov 2021</a>
+- [x] <a href="https://www.kaggle.com/c/tabular-playground-series-nov-2021" target="_blank" title="Kaggle">Tabular Playground Series - Nov 2021</a>
